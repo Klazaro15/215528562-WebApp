@@ -1,0 +1,24 @@
+html {
+    background-color: whitesmoke;
+
+}
+h1 {
+    font-weight: bolder;
+    font-style: initial;
+    color: cornflowerblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    font-size: medium;
+    font-weight: lighter;
+    color: salmon;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    font-size: medium;
+    line-height: 0cqh;
+    color: rgb(59, 59, 165);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
